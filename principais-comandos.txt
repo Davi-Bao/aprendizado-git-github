@@ -1,0 +1,17 @@
+git init
+
+git add
+
+git branch
+
+git checkout
+
+git log
+
+git status
+
+git push
+
+git pull
+
+git merge
